@@ -31,16 +31,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://SZU-Aplication.github.io/contact/contributor/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://SZU-Aplication.github.io/contact/support/</loc>
-         <lastmod>2024-08-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://SZU-Aplication.github.io/jiuye/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
@@ -126,12 +116,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://SZU-Aplication.github.io/main/friendlink/</loc>
+         <loc>https://SZU-Aplication.github.io/main/committee/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://SZU-Aplication.github.io/main/qa/</loc>
+         <loc>https://SZU-Aplication.github.io/main/friendlink/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
