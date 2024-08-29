@@ -16,7 +16,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://SZU-Aplication.github.io/baoyan/template/</loc>
+         <lastmod>2024-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://SZU-Aplication.github.io/baoyan/2024/</loc>
+         <lastmod>2024-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://SZU-Aplication.github.io/baoyan/2024/cases/junmingchen/</loc>
+         <lastmod>2024-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://SZU-Aplication.github.io/baoyan/2024/cases/yanqin/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -27,6 +42,11 @@
     </url>
     <url>
          <loc>https://SZU-Aplication.github.io/baoyan/2025/</loc>
+         <lastmod>2024-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://SZU-Aplication.github.io/baoyan/2025/cases/tianxingchen/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -51,7 +71,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://SZU-Aplication.github.io/jiuye/2025/cases/tianxingchen/</loc>
+         <loc>https://SZU-Aplication.github.io/jiuye/2025/cases/yifeiliu/</loc>
+         <lastmod>2024-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://SZU-Aplication.github.io/jiuye/2026/</loc>
+         <lastmod>2024-08-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://SZU-Aplication.github.io/jiuye/2026/cases/haolinguan/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -96,12 +126,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://SZU-Aplication.github.io/liuxue/2025/</loc>
+         <loc>https://SZU-Aplication.github.io/liuxue/2024/cases/ruipengwang/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://SZU-Aplication.github.io/liuxue/2025/cases/tianxingchen/</loc>
+         <loc>https://SZU-Aplication.github.io/liuxue/2025/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -116,7 +146,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://SZU-Aplication.github.io/main/committee/</loc>
+         <loc>https://SZU-Aplication.github.io/main/contect%26support/</loc>
          <lastmod>2024-08-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
